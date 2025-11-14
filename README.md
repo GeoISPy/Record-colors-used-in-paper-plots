@@ -44,7 +44,7 @@
   3. 根据 `isrgb` 的取值决定返回形式。
 - **典型场景**：快速查询常用色或在脚本中通过索引获取统一的色彩配置。
 
-![常用单颜色](“https://github.com/GeoISPy/Record-colors-used-in-paper-plots/edit/main/常用单颜色(monoColor).png”)
+![常用单颜色](“https://github.com/GeoISPy/Record-colors-used-in-paper-plots/blob/main/%E5%B8%B8%E7%94%A8%E5%8D%95%E9%A2%9C%E8%89%B2(monoColor).png”)
 
 ## 协同使用建议
 
