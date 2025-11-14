@@ -16,6 +16,9 @@
   4. 将颜色值转换为 0-1 范围，更新结构体数组并持久化到 MAT 文件。
   5. 生成包含折线示例与色块信息的图像，并以 `序号X_Y个颜色.png` 命名保存。
 - **典型场景**：需要录入新的配色方案时调用；若传入重复数据，函数会提示原序号并避免冗余记录。
+<img src="https://github.com/GeoISPy/Record-colors-used-in-paper-plots/blob/main/Multi_Color_Map/%E5%BA%8F%E5%8F%B71_3%E4%B8%AA%E9%A2%9C%E8%89%B2.png" width="840px">
+
+
 
 ## getColorPalette.m
 
@@ -44,7 +47,7 @@
   3. 根据 `isrgb` 的取值决定返回形式。
 - **典型场景**：快速查询常用色或在脚本中通过索引获取统一的色彩配置。
 
-<img src="https://github.com/GeoISPy/Record-colors-used-in-paper-plots/blob/main/%E5%B8%B8%E7%94%A8%E5%8D%95%E9%A2%9C%E8%89%B2(monoColor).png" width="420px">
+<img src="https://github.com/GeoISPy/Record-colors-used-in-paper-plots/blob/main/%E5%B8%B8%E7%94%A8%E5%8D%95%E9%A2%9C%E8%89%B2(monoColor).png" width="840px">
 
 ## 协同使用建议
 
